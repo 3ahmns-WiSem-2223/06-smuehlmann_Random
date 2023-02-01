@@ -27,3 +27,7 @@ Random in Unity
 + Random.value: zufallszahl
 + Random.ColorHSV: zufällige Frabe
 + RandomRotation: zufällige Rotation
+
++ Unity version: 2020.3.18f1
++ VS Version: Visual Studio 2019
++ OS: Windows 10
